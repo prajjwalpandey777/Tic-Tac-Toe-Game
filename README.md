@@ -98,6 +98,12 @@ const winPatterns = [
 
 ✨ Neon glowing Tic Tac Toe board with interactive gameplay.
 
+
+<p align="center">
+  <img src="Images/photo2.png" width="300" height="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="Images/photo3.png" width="300" height="300" />
+</p>
 ---
 
 ## 🔮 Future Improvements
